@@ -1,13 +1,16 @@
 ---
 layout: page
 title: FERSC Freight and Rural Delivery Resilience
-description: FERSC-funded work on logistics performance under extreme weather and hybrid truck-drone routing for rural areas.
+description: Freight resilience, extreme-weather logistics performance, and equitable rural truck-drone delivery systems.
 importance: 3
 category: funded
+agency: FERSC University Transportation Center
+agency_icon: fa-solid fa-truck-fast
 related_publications: true
 ---
 
-**Sponsor:** University Transportation Center for Freight Transportation for Efficient and Resilient Supply Chain (FERSC)  
+<p><i class="fa-solid fa-truck-fast"></i> <strong>Funding agency:</strong> University Transportation Center for Freight Transportation for Efficient and Resilient Supply Chain (FERSC)</p>
+
 **Projects:** Estimation of Logistic Transportation System Performance under Extreme Weather Conditions; Equity Embedded Hybrid Truck-Drone Delivery Routing Design for Rural Areas  
 **Role:** Key Personnel  
 **Period:** 2024-2025  

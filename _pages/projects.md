@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Funded projects and sponsored research in the TRANSPORTATION INTELLIGENCE LAB.
+description: Funded projects and sponsored research in the Transportation Intelligence Lab.
 nav: true
 nav_order: 3
 horizontal: true

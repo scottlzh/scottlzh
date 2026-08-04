@@ -1,13 +1,16 @@
 ---
 layout: page
 title: USDOT Vision Zero Safety Analytics
-description: USDOT SS4A projects supporting safety roadmaps and resilient digital-twin enhanced safety analysis.
+description: Data-driven safety roadmaps and digital-twin evaluation for Vision Zero transportation safety programs.
 importance: 2
 category: funded
+agency: U.S. Department of Transportation (USDOT)
+agency_icon: fa-solid fa-building-columns
 related_publications: true
 ---
 
-**Sponsor:** U.S. Department of Transportation (USDOT), Safe Streets and Roads for All (SS4A)  
+<p><i class="fa-solid fa-building-columns"></i> <strong>Funding agency:</strong> U.S. Department of Transportation (USDOT), Safe Streets and Roads for All (SS4A)</p>
+
 **Projects:** Safety Roadmaps in El Paso; Towards Vision Zero: Resilient Digital-Twin Enhanced Safety Analysis for Corpus Christi  
 **Role:** Key Personnel  
 **Period:** 2025-2028  

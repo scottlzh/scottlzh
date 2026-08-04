@@ -1,13 +1,16 @@
 ---
 layout: page
 title: FHWA Pedestrian Video Analytics
-description: FHWA EAR project on computer vision and edge computing for anonymized pedestrian activity data extraction.
+description: Privacy-preserving video analytics and edge computing for anonymized pedestrian activity data extraction.
 importance: 1
 category: funded
+agency: Federal Highway Administration (FHWA)
+agency_icon: fa-solid fa-road
 related_publications: true
 ---
 
-**Sponsor:** Federal Highway Administration (FHWA), Exploratory Advanced Research (EAR) Program  
+<p><i class="fa-solid fa-road"></i> <strong>Funding agency:</strong> Federal Highway Administration (FHWA), Exploratory Advanced Research (EAR) Program</p>
+
 **Project:** Computer Vision and Edge Computing for Extraction of Anonymized Pedestrian Activity Data from Video  
 **Role:** Co-PI  
 **Period:** 2026-2028  

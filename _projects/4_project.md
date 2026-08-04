@@ -1,13 +1,16 @@
 ---
 layout: page
 title: MarTREC Port Recovery after Severe Storms
-description: MarTREC-funded project on predicting port recovery time after severe storms.
+description: Data-driven port recovery-time prediction after severe storms for maritime transportation resilience planning.
 importance: 4
 category: funded
+agency: Maritime Transportation Research and Education Center (MarTREC)
+agency_icon: fa-solid fa-anchor
 related_publications: true
 ---
 
-**Sponsor:** Maritime Transportation Research and Education Center (MarTREC), USDOT Tier 1 University Transportation Center  
+<p><i class="fa-solid fa-anchor"></i> <strong>Funding agency:</strong> Maritime Transportation Research and Education Center (MarTREC), USDOT Tier 1 University Transportation Center</p>
+
 **Project:** Prediction of Port Recovery Time after a Severe Storm  
 **Role:** Key Personnel  
 **Period:** 2023-2024  

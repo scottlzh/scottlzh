@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: Advancing safe, efficient, reliable, and resilient transportation systems.
+subtitle: Advancing <em>safe</em>, <em>efficient</em>, <em>reliable</em>, and <em>resilient</em> transportation systems.
 
 profile:
   align: right
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-The **TRANSPORTATION INTELLIGENCE LAB** is a transportation systems research group led by Dr. Zihao (Scott) Li in the Department of Civil, Construction & Environmental Engineering at Marquette University.
+The **Transportation Intelligence Lab** is a transportation systems research group led by Dr. Zihao (Scott) Li in the Department of Civil, Construction & Environmental Engineering at Marquette University.
 
 Our mission is to advance safe, efficient, reliable, and resilient transportation systems through multimodal and agentic AI, social-cyber-physical systems analysis, connected and automated vehicle control, traffic flow modeling, and active safety intervention.
 

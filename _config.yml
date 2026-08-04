@@ -2,14 +2,14 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: TRANSPORTATION INTELLIGENCE LAB # the website title (if blank, full name will be used instead)
+title: Transportation Intelligence Lab # the website title (if blank, full name will be used instead)
 first_name: Zihao
 middle_name: (Scott)
 last_name: Li
 contact_note: >
   Contact Dr. Zihao Li for collaboration, student opportunities, and research inquiries related to safe, efficient, reliable, and resilient transportation systems.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  The TRANSPORTATION INTELLIGENCE LAB at Marquette University advances safe, efficient,
+  The Transportation Intelligence Lab at Marquette University advances safe, efficient,
   reliable, and resilient transportation systems.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.

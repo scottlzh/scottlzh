@@ -16,5 +16,11 @@ profiles:
       <p>Marquette University</p>
       <p><a href="mailto:zihao.li@marquette.edu">zihao.li@marquette.edu</a></p>
   - align: left
+    image: people/chenchen-kuai.png
     content: people_students.md
+    image_circular: false
+    more_info: >
+      <p>Ph.D. Student</p>
+      <p>Texas A&M University</p>
+      <p>Co-advised</p>
 ---

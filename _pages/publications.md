@@ -17,12 +17,12 @@ nav_order: 2
 
 <div class="publications">
 
-<h2>Peer-Reviewed Journal Articles</h2>
-
-{% bibliography --query @article %}
-
 <h2>Top-tier AI Conference Papers</h2>
 
 {% bibliography --query @inproceedings %}
+
+<h2>Peer-Reviewed Journal Articles</h2>
+
+{% bibliography --query @article %}
 
 </div>
