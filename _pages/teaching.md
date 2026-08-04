@@ -7,8 +7,6 @@ nav: true
 nav_order: 5
 ---
 
-{% include figure.liquid loading="eager" path="assets/img/teaching/teaching-tamu.jpg" class="img-fluid rounded z-depth-1" alt="Transportation engineering teaching at Texas A&M University" %}
-
 ## Sole Instructor
 
 - **CEEN 4640, Traffic Characteristics and Design**, Marquette University, Fall 2026.

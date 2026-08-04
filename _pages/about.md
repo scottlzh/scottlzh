@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: Safe &middot; Reliable &middot; Efficient &middot; Resilient<br>Advancing safe, efficient, reliable, and resilient transportation systems.
+subtitle: Advancing safe, efficient, reliable, and resilient transportation systems.
 
 profile:
   align: right
@@ -27,9 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-The **Transportation Intelligence Lab** is a transportation systems research group led by Dr. Zihao (Scott) Li in the Department of Civil, Construction & Environmental Engineering at Marquette University.
+The **TRANSPORTATION INTELLIGENCE LAB** is a transportation systems research group led by Dr. Zihao (Scott) Li in the Department of Civil, Construction & Environmental Engineering at Marquette University.
 
-Our mission is to advance safe, efficient, reliable, and resilient transportation systems through data-driven modeling, artificial intelligence, cyber-physical system analysis, and decision-support tools. The lab works across intelligent transportation systems, transportation resilience, connected and automated vehicles, active traffic safety, traffic flow theory, freight and port systems, and infrastructure risk.
+Our mission is to advance safe, efficient, reliable, and resilient transportation systems through multimodal and agentic AI, social-cyber-physical systems analysis, connected and automated vehicle control, traffic flow modeling, and active safety intervention.
 
 <div style="clear: both;"></div>
 
@@ -37,9 +37,10 @@ Our mission is to advance safe, efficient, reliable, and resilient transportatio
 
 ## Lab Focus
 
-- **Safe:** active traffic safety analysis, crash risk modeling, vulnerable road user protection, and digital-twin safety evaluation.
-- **Reliable:** connected and automated vehicle control, mixed autonomy traffic, traffic flow modeling, and cyber-physical system robustness.
-- **Efficient:** AI-enabled traffic operations, freight and logistics analysis, multimodal intelligence, and decision-support systems.
-- **Resilient:** transportation infrastructure resilience, port and freight recovery, natural hazard screening, and recovery planning under disruption.
+- **Multimodal and Agentic AI for Intelligent Transportation Systems:** multimodal reasoning, benchmark development, knowledge-grounded AI, and decision-support tools for transportation operations.
+- **Social-Cyber-Physical Transportation Resilience:** resilience modeling for transportation infrastructure, freight and port systems, natural hazards, and recovery planning under disruption.
+- **Connected and Automated Transportation Systems and Vehicle Control:** connected and automated vehicle control, mixed-autonomy traffic, cooperative driving, and cyberattack-resilient vehicle systems.
+- **Traffic Flow Theory and Modeling:** analytical and data-driven traffic flow models, mixed traffic dynamics, signalized intersection delay, and headway and collision-risk modeling.
+- **Active Traffic Safety Analysis and Intervention:** crash-risk prediction, vulnerable road user protection, digital-twin safety evaluation, and AI-enabled safety intervention.
 
-Prospective students and collaborators with overlapping interests are encouraged to review the funded projects, teaching, and openings pages.
+Prospective students and collaborators with overlapping interests are encouraged to review the publications, projects, and openings pages.

@@ -4,7 +4,6 @@ title: FERSC Freight and Rural Delivery Resilience
 description: FERSC-funded work on logistics performance under extreme weather and hybrid truck-drone routing for rural areas.
 importance: 3
 category: funded
-img: assets/img/campus/engineering-hall.jpg
 related_publications: true
 ---
 

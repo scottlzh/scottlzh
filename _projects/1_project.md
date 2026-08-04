@@ -4,7 +4,6 @@ title: FHWA Pedestrian Video Analytics
 description: FHWA EAR project on computer vision and edge computing for anonymized pedestrian activity data extraction.
 importance: 1
 category: funded
-img: assets/img/projects/fhwa-ear.jpg
 related_publications: true
 ---
 

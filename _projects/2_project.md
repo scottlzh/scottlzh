@@ -4,7 +4,6 @@ title: USDOT Vision Zero Safety Analytics
 description: USDOT SS4A projects supporting safety roadmaps and resilient digital-twin enhanced safety analysis.
 importance: 2
 category: funded
-img: assets/img/campus/marquette-panorama.jpg
 related_publications: true
 ---
 
