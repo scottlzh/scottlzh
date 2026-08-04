@@ -4,7 +4,7 @@ title: FERSC Freight and Rural Delivery Resilience
 description: Freight resilience, extreme-weather logistics performance, and equitable rural truck-drone delivery systems.
 importance: 3
 category: funded
-agency: FERSC University Transportation Center
+agency: University Transportation Center for Freight Transportation for Efficient and Resilient Supply Chain (FERSC)
 agency_icon: fa-solid fa-truck-fast
 related_publications: true
 ---
