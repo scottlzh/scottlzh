@@ -6,6 +6,10 @@ importance: 1
 category: funded
 agency: Federal Highway Administration (FHWA)
 agency_icon: fa-solid fa-road
+funding_agency: Federal Highway Administration (FHWA), Exploratory Advanced Research (EAR) Program
+role: Co-PI
+logo: /assets/img/logo/FHWA.png
+logo_alt: Federal Highway Administration logo
 related_publications: true
 ---
 

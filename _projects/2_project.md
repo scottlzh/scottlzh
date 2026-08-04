@@ -6,6 +6,10 @@ importance: 2
 category: funded
 agency: U.S. Department of Transportation (USDOT)
 agency_icon: fa-solid fa-building-columns
+funding_agency: U.S. Department of Transportation (USDOT), Safe Streets and Roads for All (SS4A)
+role: Key Personnel
+logo: /assets/img/logo/USDOT.png
+logo_alt: U.S. Department of Transportation logo
 related_publications: true
 ---
 

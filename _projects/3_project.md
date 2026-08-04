@@ -6,6 +6,10 @@ importance: 3
 category: funded
 agency: University Transportation Center for Freight Transportation for Efficient and Resilient Supply Chain (FERSC)
 agency_icon: fa-solid fa-truck-fast
+funding_agency: University Transportation Center for Freight Transportation for Efficient and Resilient Supply Chain (FERSC)
+role: Key Personnel
+logo: /assets/img/logo/FERSC.png
+logo_alt: FERSC University Transportation Center logo
 related_publications: true
 ---
 
