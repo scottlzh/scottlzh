@@ -6,7 +6,8 @@ importance: 4
 category: funded
 agency: Maritime Transportation Research and Education Center (MarTREC)
 agency_icon: fa-solid fa-anchor
-funding_agency: Maritime Transportation Research and Education Center (MarTREC), USDOT Tier 1 University Transportation Center
+funding_agency: Maritime Transportation Research and Education Center (MarTREC)
+program: USDOT Tier 1 University Transportation Center
 role: Key Personnel
 logo: /assets/img/logo/MarTREC.png
 logo_alt: Maritime Transportation Research and Education Center logo
