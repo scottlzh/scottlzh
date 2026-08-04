@@ -4,12 +4,6 @@
       <div class="row no-gutters">
         <div class="col-md-12">
           <div class="card-body">
-            {% if project.agency %}
-              <div class="mb-2" style="font-weight: 600; color: var(--global-theme-color);">
-                <i class="{{ project.agency_icon | default: 'fa-solid fa-building-columns' }}" aria-hidden="true"></i>
-                <span>{{ project.agency }}</span>
-              </div>
-            {% endif %}
             <h3 class="card-title">{{ project.title }}</h3>
             <p class="card-text">{{ project.description }}</p>
           </div>
