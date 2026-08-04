@@ -13,6 +13,8 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
+<p><small>* Corresponding author.</small></p>
+
 <div class="publications">
 
 {% bibliography %}

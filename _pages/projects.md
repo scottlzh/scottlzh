@@ -2,11 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Core research directions in AI-enabled transportation systems, resilience, automation, and safety.
+description: Funded projects and sponsored research in the Transportation Intelligence Lab.
 nav: true
 nav_order: 3
-display_categories: [research]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->

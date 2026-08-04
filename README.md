@@ -1,6 +1,6 @@
-# Zihao Li Lab Website
+# Transportation Intelligence Lab Website
 
-This repository contains the source for the Zihao Li Lab website, built with the
+This repository contains the source for the Transportation Intelligence Lab website, built with the
 al-folio Jekyll theme and customized for a research group website.
 
 ## Local Preview

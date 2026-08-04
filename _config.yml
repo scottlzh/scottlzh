@@ -2,21 +2,21 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Zihao Li Lab # the website title (if blank, full name will be used instead)
+title: TRANSPORTATION INTELLIGENCE LAB # the website title (if blank, full name will be used instead)
 first_name: Zihao
 middle_name: (Scott)
 last_name: Li
 contact_note: >
-  Contact Dr. Zihao Li for collaboration, student opportunities, and research inquiries.
+  Contact Dr. Zihao Li for collaboration, student opportunities, and research inquiries related to safe, efficient, reliable, and resilient transportation systems.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  The Zihao Li Lab at Marquette University develops AI-enabled and cyber-physical approaches
-  for resilient, safe, and automated transportation systems.
+  The Transportation Intelligence Lab at Marquette University advances safe, efficient,
+  reliable, and resilient transportation systems.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: intelligent transportation systems, transportation resilience, connected automated vehicles, cyber-physical systems, multimodal AI, agentic AI, traffic safety, traffic flow # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🔬 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🚦 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
 
 url: https://scottlzh.github.io # the base hostname & protocol for your site
@@ -202,6 +202,7 @@ collections:
 
 # Markdown and syntax highlight
 markdown: kramdown
+future: true
 highlighter: rouge
 kramdown:
   input: GFM
@@ -233,6 +234,7 @@ exclude:
   - assets/jupyter/
   - test/
   - _pages/people_pi.md
+  - _pages/people_students.md
   - _pages/about_einstein.md
   - purgecss.config.js
   - README.md

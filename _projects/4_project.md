@@ -1,12 +1,16 @@
 ---
 layout: page
-title: Traffic Safety and Flow Modeling
-description: Analytical, statistical, and learning-based methods for crash risk, active safety, and traffic flow.
+title: MarTREC Port Recovery after Severe Storms
+description: MarTREC-funded project on predicting port recovery time after severe storms.
 importance: 4
-category: research
+category: funded
 related_publications: true
 ---
 
-This research direction connects traffic flow theory, safety analytics, and data-driven modeling to understand risk formation and design interventions.
+**Sponsor:** Maritime Transportation Research and Education Center (MarTREC), USDOT Tier 1 University Transportation Center  
+**Project:** Prediction of Port Recovery Time after a Severe Storm  
+**Role:** Key Personnel  
+**Period:** 2023-2024  
+**Award:** $90,000
 
-Representative topics include crash risk estimation from structured and textual violation records, digital-twin safety analysis for mixed autonomous traffic, headway distribution modeling, signalized intersection delay, and equitable safety-improvement decision support.
+This project developed data-driven methods for estimating port recovery time following severe storms, supporting resilience planning for maritime transportation systems. Collaborating institutions include MarTREC partners, Texas A&M University, and Texas A&M Transportation Institute.

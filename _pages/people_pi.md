@@ -1,4 +1,4 @@
-**Zihao (Scott) Li** is an Assistant Professor in the Department of Civil, Construction & Environmental Engineering at Marquette University. He received his Ph.D. in Civil & Environmental Engineering from Texas A&M University, his M.S. from Tsinghua University, and his B.Eng. from Northeastern University.
+**Zihao (Scott) Li** will join the Department of Civil, Construction & Environmental Engineering at Marquette University as an Assistant Professor on August 15, 2026. He received his Ph.D. in Civil & Environmental Engineering from Texas A&M University, his M.S. from Tsinghua University, and his B.Eng. from Northeastern University.
 
 His research focuses on multimodal and agentic AI for intelligent transportation systems, cyber-physical-human transportation resilience, connected and automated vehicle control, traffic flow modeling, and active traffic safety analysis.
 

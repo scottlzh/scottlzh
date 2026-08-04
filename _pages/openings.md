@@ -4,7 +4,7 @@ title: openings
 permalink: /openings/
 description: Opportunities for prospective students, visitors, and collaborators.
 nav: true
-nav_order: 6
+nav_order: 7
 ---
 
 The lab welcomes inquiries from prospective Ph.D. students, master's students, undergraduate researchers, visiting students, and collaborators interested in AI-enabled transportation systems, transportation resilience, connected and automated vehicles, traffic flow modeling, and active traffic safety.

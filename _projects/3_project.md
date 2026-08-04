@@ -1,12 +1,17 @@
 ---
 layout: page
-title: Connected and Automated Vehicles
-description: Control, stability, and safety analysis for connected and automated transportation systems.
+title: FERSC Freight and Rural Delivery Resilience
+description: FERSC-funded work on logistics performance under extreme weather and hybrid truck-drone routing for rural areas.
 importance: 3
-category: research
+category: funded
+img: assets/img/campus/engineering-hall.jpg
 related_publications: true
 ---
 
-This research focuses on connected and automated vehicle systems operating in mixed traffic and adversarial or uncertain cyber-physical environments.
+**Sponsor:** University Transportation Center for Freight Transportation for Efficient and Resilient Supply Chain (FERSC)  
+**Projects:** Estimation of Logistic Transportation System Performance under Extreme Weather Conditions; Equity Embedded Hybrid Truck-Drone Delivery Routing Design for Rural Areas  
+**Role:** Key Personnel  
+**Period:** 2024-2025  
+**Awards:** $100,000 each
 
-Topics include cooperative adaptive cruise control, platoon stability, communication cyberattacks, sensing attacks, mixed autonomy traffic waves, cut-in safety, and analytical models linking vehicle-level control to network-level traffic behavior.
+These projects study freight system resilience, extreme-weather impacts, rural logistics equity, and emerging delivery systems. Collaborating institutions include FERSC partners and Texas A&M University.
