@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://scottlzh.github.io/scottlzh/sitemap.xml
