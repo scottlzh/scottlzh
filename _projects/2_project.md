@@ -9,6 +9,7 @@ agency_icon: fa-solid fa-building-columns
 funding_agency: U.S. Department of Transportation (USDOT)
 program: Safe Streets and Roads for All (SS4A)
 role: Key Personnel
+period: 2025-2028
 logo: /assets/img/logo/USDOT.png
 logo_alt: U.S. Department of Transportation logo
 related_publications: true

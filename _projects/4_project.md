@@ -9,6 +9,7 @@ agency_icon: fa-solid fa-anchor
 funding_agency: Maritime Transportation Research and Education Center (MarTREC)
 program: USDOT Tier 1 University Transportation Center
 role: Key Personnel
+period: 2023-2024
 logo: /assets/img/logo/MarTREC.png
 logo_alt: Maritime Transportation Research and Education Center logo
 related_publications: true

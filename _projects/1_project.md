@@ -9,6 +9,7 @@ agency_icon: fa-solid fa-road
 funding_agency: Federal Highway Administration (FHWA)
 program: Exploratory Advanced Research (EAR) Program
 role: Co-PI
+period: 2026-2028
 logo: /assets/img/logo/FHWA.png
 logo_alt: Federal Highway Administration logo
 related_publications: true
