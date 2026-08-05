@@ -3,15 +3,88 @@ layout: default
 ---
 <div class="post">
   <header class="post-header">
-    <h1 class="post-title">
-      {% if site.title == 'blank' %}
-        <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
-        {{ site.last_name }}
-      {% else %}
-        {{ site.title }}
-      {% endif %}
-    </h1>
-    <p class="desc">{{ page.subtitle }}</p>
+    {% if page.lab_identity and page.lab_identity.logo %}
+      {% assign lab_logo_path = page.lab_identity.logo | prepend: '/assets/img/' %}
+      <style>
+        .lab-identity {
+          display: flex;
+          align-items: center;
+          gap: 1rem;
+          margin-bottom: 0.35rem;
+        }
+
+        .lab-identity-logo {
+          width: 76px;
+          height: 76px;
+          object-fit: contain;
+          flex: 0 0 auto;
+        }
+
+        .lab-identity-copy {
+          min-width: 0;
+        }
+
+        .lab-identity-copy .post-title {
+          margin-bottom: 0.25rem;
+          line-height: 1.05;
+          letter-spacing: 0;
+        }
+
+        .lab-identity-copy .desc {
+          margin-bottom: 0;
+        }
+
+        @media (max-width: 575.98px) {
+          .lab-identity {
+            align-items: flex-start;
+            gap: 0.75rem;
+          }
+
+          .lab-identity-logo {
+            width: 58px;
+            height: 58px;
+          }
+
+          .lab-identity-copy .post-title {
+            font-size: 1.85rem;
+            line-height: 1.08;
+          }
+
+          .lab-identity-copy .desc {
+            font-size: 0.95rem;
+            line-height: 1.35;
+          }
+        }
+      </style>
+      <div class="lab-identity">
+        <img
+          src="{{ lab_logo_path | relative_url }}"
+          alt="{{ page.lab_identity.alt | default: site.title }}"
+          class="lab-identity-logo"
+        >
+        <div class="lab-identity-copy">
+          <h1 class="post-title">
+            {% if site.title == 'blank' %}
+              <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
+              {{ site.last_name }}
+            {% else %}
+              {{ site.title }}
+            {% endif %}
+          </h1>
+          <p class="desc">{{ page.subtitle }}</p>
+        </div>
+      </div>
+    {% else %}
+      <h1 class="post-title">
+        {% if site.title == 'blank' %}
+          <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
+          {{ site.last_name }}
+        {% else %}
+          {{ site.title }}
+        {% endif %}
+      </h1>
+      <p class="desc">{{ page.subtitle }}</p>
+    {% endif %}
   </header>
 
   <article>

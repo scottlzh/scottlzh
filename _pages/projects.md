@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Funded projects and sponsored research in the Transportation Intelligence Lab.
+description: Funded projects and sponsored research in the R²ISE Transportation Lab.
 nav: true
 nav_order: 3
 horizontal: true
