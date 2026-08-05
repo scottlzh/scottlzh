@@ -1,6 +1,6 @@
 ---
 layout: page
-title: openings
+title: Openings
 permalink: /openings/
 description: Opportunities for prospective students, visitors, and collaborators.
 nav: true

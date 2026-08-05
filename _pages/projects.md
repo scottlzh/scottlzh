@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: Funded projects and sponsored research in the Transportation Intelligence Lab.
 nav: true
