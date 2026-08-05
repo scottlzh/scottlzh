@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New work on traffic waves of linear adaptive cruise control appears in Transportation Research Part B and was accepted at the 26th ISTTT.
+Our work on traffic waves of linear adaptive cruise control appears in Transportation Research Part B and was accepted at the 26th ISTTT.
