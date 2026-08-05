@@ -7,13 +7,13 @@
     Ph.D. student at Texas A&M University. Co-advised with Dr. Yunlong Zhang.</p>
     <div style="display: grid; grid-template-columns: minmax(0, 20rem) max-content; column-gap: 1rem; row-gap: 0.2rem; margin-bottom: 0.5rem; line-height: 1.6;">
       <span>Bachelor, Southeast University</span><span>2018-2022</span>
-      <span>Master, University of California, Los Angeles (UCLA)</span><span>2022-2024</span>
+      <span>Master, University of California, Los Angeles</span><span>2022-2024</span>
     </div>
     <p><a href="https://scholar.google.com/citations?user=ifpEXckAAAAJ">Google Scholar</a></p>
   </div>
 </div>
 
-## Master's Students
+## Master Students
 
 To be updated.
 

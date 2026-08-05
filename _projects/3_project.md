@@ -9,7 +9,7 @@ agency_icon: fa-solid fa-truck-fast
 funding_agency: University Transportation Center for Freight Transportation for Efficient and Resilient Supply Chain (FERSC)
 program: FERSC University Transportation Center Research Program
 role: Key Personnel
-period: 2024-2025
+period: 2024-2026
 logo: /assets/img/logo/FERSC.png
 logo_alt: FERSC University Transportation Center logo
 related_publications: true
@@ -19,7 +19,7 @@ related_publications: true
 
 **Project:** Estimation of Logistic Transportation System Performance under Extreme Weather Conditions  
 **Role:** Key Personnel  
-**Period:** 2024-2025  
+**Period:** 2024-2026  
 **Award:** $100,000
 
 This project studies freight system resilience and logistics performance under extreme weather. Collaborating institutions include FERSC partners and Texas A&M University.
