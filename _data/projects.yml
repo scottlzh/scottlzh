@@ -1,0 +1,35 @@
+- importance: 1
+  funding_agency: Federal Highway Administration (FHWA)
+  program: Exploratory Advanced Research (EAR) Program
+  role: Co-PI
+  period: 2026-2028
+  description: Privacy-preserving video analytics and edge computing for anonymized pedestrian activity data extraction.
+  logo: /assets/img/logo/FHWA.svg
+  logo_alt: Federal Highway Administration logo
+
+- importance: 2
+  funding_agency: U.S. Department of Transportation (USDOT)
+  program: Safe Streets and Roads for All (SS4A)
+  role: Key Personnel
+  period: 2025-2028
+  description: Data-driven safety roadmaps and digital-twin evaluation for Vision Zero transportation safety programs.
+  logo: /assets/img/logo/USDOT.png
+  logo_alt: U.S. Department of Transportation logo
+
+- importance: 3
+  funding_agency: University Transportation Center for Freight Transportation for Efficient and Resilient Supply Chain (FERSC)
+  program: FERSC University Transportation Center Research Program
+  role: Key Personnel
+  period: 2024-2026
+  description: Freight resilience and logistics performance under extreme weather.
+  logo: /assets/img/logo/FERSC.png
+  logo_alt: FERSC University Transportation Center logo
+
+- importance: 4
+  funding_agency: Maritime Transportation Research and Education Center (MarTREC)
+  program: USDOT Tier 1 University Transportation Center
+  role: Key Personnel
+  period: 2023-2024
+  description: Data-driven port recovery-time prediction after severe storms for maritime transportation resilience planning.
+  logo: /assets/img/logo/MarTREC.png
+  logo_alt: Maritime Transportation Research and Education Center logo

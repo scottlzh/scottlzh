@@ -1,12 +1,12 @@
 <div class="project-list-item" style="display: flex; flex-wrap: wrap; gap: 1rem; align-items: flex-start; padding: 1.1rem 0; border-bottom: 1px solid var(--global-divider-color);">
   {% if project.logo %}
-    <a href="{% if project.redirect %}{{ project.redirect }}{% else %}{{ project.url | relative_url }}{% endif %}" style="flex: 0 0 88px;">
+    <div style="flex: 0 0 88px;">
       <img src="{{ project.logo | relative_url }}" alt="{{ project.logo_alt | default: project.agency }}" style="width: 88px; max-height: 64px; object-fit: contain;">
-    </a>
+    </div>
   {% endif %}
   <div style="flex: 1 1 280px; min-width: 0;">
     <h3 style="font-size: 1.05rem; margin: 0 0 0.35rem;">
-      <a href="{% if project.redirect %}{{ project.redirect }}{% else %}{{ project.url | relative_url }}{% endif %}">{{ project.funding_agency | default: project.agency }}</a>
+      {{ project.funding_agency | default: project.agency }}
     </h3>
     {% if project.program %}
       <div style="margin: -0.15rem 0 0.45rem; color: var(--global-text-color-light); font-size: 0.95rem;">{{ project.program }}</div>

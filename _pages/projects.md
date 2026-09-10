@@ -8,7 +8,7 @@ nav_order: 3
 horizontal: true
 ---
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+{% assign sorted_projects = site.data.projects | sort: "importance" %}
 
 <!-- pages/projects.md -->
 <div class="projects">
