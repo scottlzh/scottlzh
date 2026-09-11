@@ -55,6 +55,40 @@ layout: default
             line-height: 1.35;
           }
         }
+
+        .profile.home-lab-visual {
+          max-width: 240px;
+          margin-left: 2rem;
+          margin-bottom: 1.25rem;
+          text-align: center;
+        }
+
+        .profile.home-lab-visual .lab-home-image {
+          width: 100%;
+          max-width: 220px;
+          border-radius: 50%;
+          box-shadow: none;
+          background: transparent;
+        }
+
+        .profile.home-lab-visual .more-info {
+          margin-top: 0.75rem;
+          color: var(--global-text-color-light);
+          font-size: 0.92rem;
+          line-height: 1.45;
+        }
+
+        .profile.home-lab-visual .more-info p {
+          margin-bottom: 0.25rem;
+        }
+
+        @media (max-width: 767.98px) {
+          .profile.home-lab-visual {
+            float: none !important;
+            max-width: 210px;
+            margin: 0 auto 1.4rem;
+          }
+        }
       </style>
       <div class="lab-identity">
         <img
@@ -89,17 +123,20 @@ layout: default
 
   <article>
     {% if page.profile %}
-      <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
+      <div class="profile {% if page.profile.home_visual %}home-lab-visual {% endif %}float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
         {% if page.profile.image %}
           {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
-          {% if page.profile.image_circular %}
+          {% if page.profile.home_visual %}
+            {% assign profile_image_class = 'img-fluid lab-home-image' %}
+          {% elsif page.profile.image_circular %}
             {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
           {% else %}
             {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
           {% endif %}
           {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
+          {% assign profile_image_alt = page.profile.alt | default: page.profile.image %}
           {%
-            include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
+            include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile_image_alt
             cache_bust=true
           %}
         {% endif %}
