@@ -35,8 +35,8 @@
     <p><strong>Shixuan Tang</strong><br>
     Ph.D. Student.</p>
     <div class="student-education-list">
-      <span>Bachelor, Shanghai Jiao Tong University</span>
-      <span>Master, Shanghai Jiao Tong University</span>
+      <span>Bachelor, Shanghai Jiao Tong University, China</span>
+      <span>Master, Shanghai Jiao Tong University, China</span>
       <span>Ph.D., Marquette University</span>
     </div>
     <p><a href="https://www.researchgate.net/scientific-contributions/Shixuan-Tang-2299800040">ResearchGate</a></p>
@@ -49,7 +49,7 @@
     <p><strong>Chenchen Kuai</strong><br>
     Ph.D. Student, co-advised with Dr. Yunlong Zhang.</p>
     <div class="student-education-list">
-      <span>Bachelor, Southeast University</span>
+      <span>Bachelor, Southeast University, China</span>
       <span>Master, University of California, Los Angeles</span>
       <span>Ph.D., Texas A&M University</span>
     </div>
