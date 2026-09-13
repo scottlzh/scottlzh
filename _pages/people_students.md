@@ -36,7 +36,7 @@
     Ph.D. Student.</p>
     <div class="student-education-list">
       <span>Bachelor, Shanghai Jiao Tong University</span>
-      <span>Master, The Hong Kong University of Science and Technology</span>
+      <span>Master, Shanghai Jiao Tong University</span>
       <span>Ph.D., Marquette University</span>
     </div>
     <p><a href="https://www.researchgate.net/scientific-contributions/Shixuan-Tang-2299800040">ResearchGate</a></p>
