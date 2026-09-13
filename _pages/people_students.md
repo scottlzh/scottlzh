@@ -10,6 +10,7 @@
       <span style="grid-column: 1 / -1;">Master, The Hong Kong University of Science and Technology</span>
       <span>Ph.D., Marquette University</span><span>Starting 2027</span>
     </div>
+    <p><a href="https://www.researchgate.net/scientific-contributions/Shixuan-Tang-2299800040">ResearchGate</a></p>
   </div>
 </div>
 
