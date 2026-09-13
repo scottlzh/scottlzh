@@ -1,6 +1,19 @@
 ## Ph.D. Students
 
 <div style="display: flex; flex-wrap: wrap; gap: 1rem; align-items: flex-start; margin-bottom: 1.5rem;">
+  <img src="{{ '/assets/img/people/shixuan-tang.jpg' | relative_url }}" alt="Shixuan Tang" class="z-depth-1 rounded" style="width: 150px; max-width: 35%; height: auto;">
+  <div style="flex: 1 1 240px;">
+    <p><strong>Shixuan Tang</strong><br>
+    Ph.D. Student.</p>
+    <div style="display: grid; grid-template-columns: minmax(0, 20rem) max-content; column-gap: 1rem; row-gap: 0.2rem; margin-bottom: 0.5rem; line-height: 1.6;">
+      <span style="grid-column: 1 / -1;">Bachelor, Shanghai Jiao Tong University</span>
+      <span style="grid-column: 1 / -1;">Master, The Hong Kong University of Science and Technology</span>
+      <span>Ph.D., Marquette University</span><span>Starting 2027</span>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 1rem; align-items: flex-start; margin-bottom: 1.5rem;">
   <img src="{{ '/assets/img/people/chenchen-kuai.png' | relative_url }}" alt="Chenchen Kuai" class="z-depth-1 rounded" style="width: 150px; max-width: 35%; height: auto;">
   <div style="flex: 1 1 240px;">
     <p><strong>Chenchen Kuai</strong><br>
