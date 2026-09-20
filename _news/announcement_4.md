@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Dr. Zihao (Scott) Li was invited to give a talk at the UW-Madison AI and Intelligent Transportation Systems Workshop in September 2026.
+Dr. Zihao (Scott) Li was invited to speak at the AI and Intelligent Transportation Systems Workshop at UW-Madison.
